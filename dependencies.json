@@ -1,0 +1,12 @@
+{
+    "*": {
+        "*": [
+            "jupyter_client",
+            "pyzmq",
+            "traitlets",
+            "enum34",
+            "six",
+            "ipython_genutils"
+        ]
+    }
+}
